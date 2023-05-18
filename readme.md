@@ -1,4 +1,4 @@
-# User Creation Utility
+# Auth0 Database Connection User Creation Utility
 
 This node.js script will create test users in an Auth0 database connection for purposes such as load testing.
 
